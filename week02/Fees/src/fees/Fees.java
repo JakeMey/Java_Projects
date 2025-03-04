@@ -8,7 +8,7 @@ import java.util.*;
 /**
  *
  * @author JakeMey
- * 
+ * Hello Github
  */
 public class Fees {
 
